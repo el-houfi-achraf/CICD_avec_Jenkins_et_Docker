@@ -1,4 +1,4 @@
-# TP30 : CI/CD avec Jenkins et Docker 🚀
+# CI/CD avec Jenkins et Docker 
 
 ## 📋 Description
 
